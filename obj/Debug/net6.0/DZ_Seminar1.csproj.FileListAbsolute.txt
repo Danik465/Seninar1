@@ -1,0 +1,15 @@
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\bin\Debug\net6.0\DZ_Seminar1.exe
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\bin\Debug\net6.0\DZ_Seminar1.deps.json
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\bin\Debug\net6.0\DZ_Seminar1.runtimeconfig.json
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\bin\Debug\net6.0\DZ_Seminar1.dll
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\bin\Debug\net6.0\DZ_Seminar1.pdb
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.csproj.AssemblyReference.cache
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.AssemblyInfoInputs.cache
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.AssemblyInfo.cs
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.dll
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\refint\DZ_Seminar1.dll
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.pdb
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\DZ_Seminar1.genruntimeconfig.cache
+C:\Users\dan_c\Desktop\Курс по программированию\DZ_Seminar1\obj\Debug\net6.0\ref\DZ_Seminar1.dll
